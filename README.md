@@ -15,4 +15,4 @@ Kokia suma yra gauta už skelbimus (suma kainos tų skelbimų kurie yra apmokėt
 Kokia suma dar turėtų būti apmokėta
 
 
-![This is an image](https://github.com/KristinaBri/magical-square/blob/master/img_task2.png)
+![This is an image](https://github.com/KristinaBri/darbo-skelbimai/blob/main/img_task2.png)
